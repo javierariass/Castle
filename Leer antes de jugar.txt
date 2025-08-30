@@ -1,0 +1,5 @@
+Controles:
+Atacar:A
+Interactuar: E
+Saltar: Space
+Movimiento: Flechas

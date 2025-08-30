@@ -7,3 +7,5 @@
 [Mm]emoryCaptures/
 [Dd]ebug/
 [Aa]ssets/AssetStoreTools*
+*.apk
+Android/Castle.apk

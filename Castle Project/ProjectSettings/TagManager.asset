@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - posiciones
+  - Confiner
+  - Suelo
+  - Spawn
+  - Objetos_usables
+  - life2
+  - Boton_izquierda
+  - life3
+  - KeyText
+  - Enemy
+  - Boton_derecha
+  - Boton_interactuar
+  - Boton_ataque
+  - life1
+  - Boton_salto
+  - Key_HUD
+  - Destructible
+  - Boss
   layers:
   - Default
   - TransparentFX
